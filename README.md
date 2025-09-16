@@ -10,3 +10,4 @@ sua gi thêm
 tiêp thoi
 git pull origin main --allow-unrelated-histories
 git push -u origin main
+git commit -m "update"
