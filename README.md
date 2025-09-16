@@ -12,3 +12,4 @@ git pull origin main --allow-unrelated-histories
 git push -u origin main
 git commit -m "update"
 echo "# github-demo-thuaphong" >> README.md
+git commit -m "first commit"
