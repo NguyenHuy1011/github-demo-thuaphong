@@ -3,3 +3,8 @@
 cố ý sửa lỗi
 lõi nhiều 
 làm đi con chĩnh
+tiếp 
+chậm qua
+giơ lam chinh sua
+sua gi thêm
+tiêp thoi
