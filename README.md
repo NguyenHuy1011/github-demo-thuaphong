@@ -8,3 +8,5 @@ chậm qua
 giơ lam chinh sua
 sua gi thêm
 tiêp thoi
+git pull origin main --allow-unrelated-histories
+git push -u origin main
