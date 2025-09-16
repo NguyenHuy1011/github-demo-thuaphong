@@ -14,3 +14,4 @@ git commit -m "update"
 echo "# github-demo-thuaphong" >> README.md
 git commit -m "first commit"
 git remote add origin https://github.com/NguyenHuy1011/github-demo-thuaphong.git
+git config --global user.email "youremail@example.com"
