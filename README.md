@@ -13,3 +13,4 @@ git push -u origin main
 git commit -m "update"
 echo "# github-demo-thuaphong" >> README.md
 git commit -m "first commit"
+git remote add origin https://github.com/NguyenHuy1011/github-demo-thuaphong.git
